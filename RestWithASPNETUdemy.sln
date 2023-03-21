@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestWithASPNETUdemy", "RestWithASPNETUdemy\RestWithASPNETUdemy.csproj", "{FB6096C2-2CE9-479F-AC65-431F0AE4D523}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestWithASPNETUdemy", "RestWithASPNETUdemy\RestWithASPNETUdemy.csproj", "{FB6096C2-2CE9-479F-AC65-431F0AE4D523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestWithASPNET.NET7", "RestWithASPNET.NET7\RestWithASPNET.NET7.csproj", "{F8888A57-5F16-44E6-A389-3DE1D8BE709E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FB6096C2-2CE9-479F-AC65-431F0AE4D523}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB6096C2-2CE9-479F-AC65-431F0AE4D523}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB6096C2-2CE9-479F-AC65-431F0AE4D523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8888A57-5F16-44E6-A389-3DE1D8BE709E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8888A57-5F16-44E6-A389-3DE1D8BE709E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8888A57-5F16-44E6-A389-3DE1D8BE709E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8888A57-5F16-44E6-A389-3DE1D8BE709E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
