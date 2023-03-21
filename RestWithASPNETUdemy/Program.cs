@@ -8,11 +8,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
-var app = builder.Build();
-
 //Dependency Injection
 builder.Services.AddScoped<IPersonService, PersonServiceImplamentation>();
 
+var app = builder.Build();
 // Configure the HTTP request pipeline.
 
 app.UseHttpsRedirection();

@@ -5,7 +5,7 @@ using RestWithASPNETUdemy.Services;
 namespace RestWithASPET.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class PersonController : ControllerBase
 {
 
